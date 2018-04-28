@@ -1,37 +1,5 @@
-# Jekflix Template
-![Cover Image](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+# Mikeflix
 
-See the [demo here](https://www.rossener.com/jekflix-template).
-
-## What is it?
-
-A template for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance ;)
-
-![Screenshot](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357238/jekflix-screenshot_qikqkl.jpg)
-
-## Features
-
-- Gulp
-- Stylus
-- Live Search
-- Minutes to Read
-- Reading Progress Bar
- 
- ![Progress Bar](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357769/jekflix-progress-bar_he7gqf.jpg)
-- "New Post" tag
-- Load images on demand
-- Emojis 😎
-- Push Menu
-- SVG icons
-- Shell Script to create drafts and posts
-- Tags page
-- About page
-- Contact page
-- Feed RSS
-- Sitemap.xml
-- Info Customization
-- Disqus
-- Google Analytics
 
 ## Setup
 
@@ -48,29 +16,7 @@ A template for Jekyll inspired by Netflix panel for who loves movies and series 
 
 You have to fill some informations on `_config.yml` to customize your site.
 
-```
-# Site Settings
-title: Thiago Rossener | Front-end Developer
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
-url: "https://www.rossener.com" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
 
-# User settings
-username: Thiago Rossener # it will appear on each page title after '|'
-user_description: Some text about you.
-disqus_username: disqus_username
-
-# Social Media settings
-# Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-```
 
 ## Color customization
 
@@ -138,15 +84,6 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run `sudo npm install -g gulp gulp-cli`
 - Run `sudo gulp`
 
-## Questions?
-
-Ping me on Twitter [@thiagorossener](https://twitter.com/thiagorossener) or file a [GitHub Issue](https://github.com/thiagorossener/jekflix-template/issues/new).
-
-## Donation
-
-Did you like my work? Buy me a beer :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YT3BC53XLMJ96&lc=GB&item_name=Thiago%20Rossener%20Nogueira&item_number=DON1212&no_note=0&cn=Adicionar%20instru%c3%a7%c3%b5es%20especiais%20para%20o%20vendedor%3a&no_shipping=2&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 ## Author
 
