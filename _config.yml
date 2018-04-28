@@ -1,5 +1,5 @@
 # Site Settings
-title:Mike Pinney
+title: Mike Pinney
 description: This is a space for my academic portfolio and personal thoughts
 baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
 url: "https://www.rossener.com" # the base hostname & protocol for your site
@@ -7,7 +7,7 @@ google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: mikepinney
-user_description: I'm currently a Third Year BA Geogrpaher, young black student, and aspiring GIS user.
+user_description: I'm currently a Third Year BA Geogrpaher, young black student, and aspiring GIS 
 disqus_username: disqus_username
 
 # Social Media
